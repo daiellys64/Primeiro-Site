@@ -1,0 +1,81 @@
+ body {
+
+  background-image:url("../img/brilho.jpg"); 
+  background-repeat: round;
+  font-family: font-family: 'Architects Daughter', cursive;
+  width: auto%;
+  margin-right: auto;
+  margin-left: auto; 
+}
+  h1{
+font-size:2.5em;
+  }
+
+  h2{
+font-size: 2em;
+  }
+
+table{
+    border-collapse: collapse;  
+    width:80%;
+    color:#fff 
+  }
+
+td, th {
+  border: 5px solid #dddddd;
+  text-align: left;
+  padding: 2px;
+}
+
+​tr: nth-child(even) {
+  background-color: #363636;
+}
+
+  .titulos {
+  text-align: center;
+  color: #fff;
+  font-weight: bolder
+  line-height:2;
+
+  }
+
+  h3 {
+  text-align: justify;
+  color:#fff; 
+  font-weight: bolder;
+  font-size: 1.5em;
+  }
+
+  p{
+    color:#fff;
+    font-weight: bolder;
+    font-size: 40px
+    text-align: justify;
+    margin-top:2%;
+    margin-bottom:2%;
+    margin 
+  }
+  
+ ul li {
+  color:#fff;
+  font-weight: bolder;
+  line-height: 1,5%
+
+ } 
+
+  a:link {
+  color: white;
+}
+
+a:visited {
+  color: cyan;
+}
+
+a:hover {
+  color: pink;
+}
+
+a:active {
+  color: lightblue;
+{
+
